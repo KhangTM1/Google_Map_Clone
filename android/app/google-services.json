@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94018616754",
+    "project_id": "go-now-app",
+    "storage_bucket": "go-now-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94018616754:android:b87c50a9e8a8a2eee6f8ab",
+        "android_client_info": {
+          "package_name": "com.example.go_nowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94018616754-m3j4hn0cdkt5mmcmaqvuavroij7ckg8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkIMZ_eRUEAva9T9H5E34aeanqmpaE9Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94018616754-m3j4hn0cdkt5mmcmaqvuavroij7ckg8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
